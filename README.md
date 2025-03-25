@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajan+Kumar+Varnwal!;" />
 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" alt="">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varnwal-rajan-960&label=Profile%20views&color=0e75b6&style=flat" alt="varnwal-rajan-960" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://varnwal-portfolio.netlify.app/](https://varnwal-portfolio.netlify.app/)
