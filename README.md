@@ -5,7 +5,7 @@
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt=""> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=varnwal-rajan-960&label=Profile%20views&color=0e75b6&style=flat" alt="varnwal-rajan-960" /> </p> 
   
- - 👨‍💻 All of my projects are available at `https://varnwal-portfolio.netlify.app/`  
+ - 👨‍💻 All of my projects are available at `https://varnwal-rajan-960-portfolio.netlify.app/`  
   
  - 📫 How to reach me **rajankumarvarnwal1234@gmail.com** 
   
@@ -16,7 +16,7 @@
    <a href="https://www.linkedin.com/in/rajan-kumar-varnwal-82b6aa250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank"> 
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
    </a> 
-   <a href="https://varnwal-portfolio.netlify.app/" target="_blank"> 
+   <a href="https://varnwal-rajan-960-portfolio.netlify.app/" target="_blank"> 
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
    </a> 
     <a href="mailto:rajankumarvarnwal1234@gmail.com" target="_blank"> 
