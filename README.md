@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=rainbow&height=300&section=header&text=Rajan%20Kumar%20Varnwal&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">A passionate Software developer from India </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajan-kumar-varnwal-82b6aa250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
